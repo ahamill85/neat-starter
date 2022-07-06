@@ -9,7 +9,7 @@ html {
 }
 
 h1 {
-  @apply text-4xl tracking-tighter text-center lg:text-7xl;
+  @apply text-4xl tracking-tighter text-center md:text-7xl;
 }
 
 h2 {
@@ -23,6 +23,7 @@ h2 {
   border-b
   pb-1
   border-b-slate-200
+  dark:border-b-slate-600
   print:text-inherit
   print:border-b-black;
 }
