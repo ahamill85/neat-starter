@@ -1,0 +1,51 @@
+---
+info:
+  name: Anthony Hamill
+  email: dunk-balsa-0t@icloud.com
+objective: To create accessible, standards based, pixel-perfect user experiences using bleeding edge-technologies, while continuing to mentor and facilitate the work of those around me.
+education:
+  - institution: Johnson County Community College
+    degree: Web Design Career Certificate
+    year: 2010
+  - institution: University of Kansas
+    degree: B.G.S. Psychology
+    year: 2008
+proficiencies:
+  languages:
+    HTML: 99
+    SCSS: 95
+    JS: 85
+    PHP: 65
+    C#: 50
+  frameworks:
+    Bootstrap: 95
+    Nunjucks: 80
+    React: 75
+    11ty: 70
+    Node: 65
+  applications:
+    Photoshop: 85
+    Illustrator: 80
+    VS Code: 75
+    Docker: 70
+experience:
+  # - company: MMG
+  #   title: Flash Developer
+  #   startdate: 09/08
+  #   enddate: 11/11
+  #   description: Donec sodales odio eu erat finibus, eget ultrices libero iaculis. Pellentesque at iaculis mi. Donec a lobortis metus. Morbi magna erat, dapibus nec lacinia vitae, feugiat non nibh. Aliquam erat volutpat. Quisque sollicitudin molestie massa, imperdiet suscipit mi vulputate ac.
+  # - company: Intouch Solutions
+  #   title: Front End Developer
+  #   startdate: 11/11
+  #   enddate: 05/13
+  #   description: In accumsan tincidunt odio, interdum pretium lorem sagittis sit amet. Vestibulum condimentum enim non orci ornare molestie. Curabitur arcu leo, convallis at orci id, sodales hendrerit purus. Suspendisse et ultrices nibh. Morbi volutpat nec neque eget vestibulum.
+  - company: Intouch Solutions
+    title: Senior Front End Developer
+    startdate: 05/13
+    enddate: 09/19
+    description: "Lead several projects in parallel and ensured the build met all necessary specifications: requirements, accesibiltiy, creative, SEO, and general optimization. Expected to proficient in all front-end related subject matter as well as familiar with whichever framework we were in (.NET, Sitecore, React, etc). In this position I was able to grow as a developer and as communicator, which led to my ability to lead and mentor others."
+  - company: Eversana Intouch Solutions
+    title: Front End Team Lead
+    startdate: 09/19
+    enddate: Present
+    description: "Managing 4-5 developers. Responsibilites include: estimating upcoming projects, allocating development resources, and using ADO to manage ongoing projects (tasking, repository management, defect triaging and requirement reviews). Ensure each developer has the ability, knowledge and materials to complete their projects on-time and up-to-spec in both requirements and quality. Expected to be a subject-matter-expert in all areas of front end development and to be able to mentor the developers who report to me."

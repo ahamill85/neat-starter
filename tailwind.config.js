@@ -6,6 +6,10 @@ module.exports = {
     },
     extend: {
       colors: {},
+      screens: {
+        'print': { 'raw': 'print' },
+        'screen': { 'raw': 'screen' },
+      }
     },
   },
   variants: {},
